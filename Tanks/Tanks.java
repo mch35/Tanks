@@ -4,7 +4,7 @@
 
 /**
  * @author Micha³ Chilczuk
- *
+ * 
  */
 public class Tanks {
 
